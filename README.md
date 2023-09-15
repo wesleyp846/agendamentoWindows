@@ -3,4 +3,5 @@ python -m venv env
 
 create .gitignore >> env/
 
-git init | git add . | git commit -m "initial"
+pip install schedule
+
