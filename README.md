@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 python -m venv env  
 .\env\Scripts\Activate.ps1
 
